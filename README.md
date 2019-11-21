@@ -11,4 +11,3 @@ This will automatically run and install following tools:
 1 - R
 2 - Docker
 3 - Shiny-Server
-4 - Nginx-Server
